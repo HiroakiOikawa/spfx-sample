@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "packageManager": "yarn",
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.9.1",
+    "libraryName": "teams-tab-sample",
+    "libraryId": "97e3c8ee-4e95-43e0-a58d-7edb2988fbbc",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
