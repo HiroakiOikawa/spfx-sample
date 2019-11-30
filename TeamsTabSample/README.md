@@ -1,26 +1,6 @@
-## teams-tab-sample
+## Teams タブ サンプルコード
 
-This is where you include your WebPart documentation.
+Microsoft 365 Developer Bootcamp 2019 Tokyo で使用したサンプルコードです。
+ハンズオン資料と合わせて参照してください。
 
-### Building the code
-
-```bash
-git clone the repo
-npm i
-npm i -g gulp
-gulp
-```
-
-This package produces the following:
-
-* lib/* - intermediate-stage commonjs build artifacts
-* dist/* - the bundled script, along with other resources
-* deploy/* - all resources which should be uploaded to a CDN.
-
-### Build options
-
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
+[ハンズオン資料](https://www.slideshare.net/HiroakiOikawa/sharepoint-framework-teams)
