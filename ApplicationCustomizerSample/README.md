@@ -1,26 +1,7 @@
-## application-customizer-sample
+## アプリケーションカスタマイザーサンプルコード
 
-This is where you include your WebPart documentation.
+SharePoint Framework のアプリケーションカスタマイザーのサンプルです。
 
-### Building the code
-
-```bash
-git clone the repo
-npm i
-npm i -g gulp
-gulp
-```
-
-This package produces the following:
-
-* lib/* - intermediate-stage commonjs build artifacts
-* dist/* - the bundled script, along with other resources
-* deploy/* - all resources which should be uploaded to a CDN.
-
-### Build options
-
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
+以下のページと合わせて参考にしてください。
+* [SharePoint Framework Extension (拡張機能) 基礎講座](https://sharepoint.orivers.jp/article/9898)
+* [ページプレースホルダーの事前領域確保の効果](https://sharepoint.orivers.jp/article/10164)
