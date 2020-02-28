@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "packageManager": "yarn",
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.10.0",
+    "libraryName": "list-subscription-sample",
+    "libraryId": "1140185a-92a5-49af-a0c0-4361bd7f0b44",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
