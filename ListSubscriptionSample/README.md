@@ -1,26 +1,6 @@
-## list-subscription-sample
+## 変更通知機能のサンプル
 
-This is where you include your WebPart documentation.
+SharePoint Framework v1.10 から利用可能となった、ライブラリの変更通知受信機能のサンプルです。
 
-### Building the code
-
-```bash
-git clone the repo
-npm i
-npm i -g gulp
-gulp
-```
-
-This package produces the following:
-
-* lib/* - intermediate-stage commonjs build artifacts
-* dist/* - the bundled script, along with other resources
-* deploy/* - all resources which should be uploaded to a CDN.
-
-### Build options
-
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
+以下のページと合わせて参考にしてください。
+* [ライブラリの変更通知を Web パーツで受信する](https://sharepoint.orivers.jp/article/10185)
