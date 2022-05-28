@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Redirect Web Part",
+    "id": "32b2f635-1c30-4bdc-bdcd-a2f285e9a2ec",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Redirect Page"
+      },
+      "longDescription": {
+        "default": "Redirect Page"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "Redirect Web Part",
+        "description": "The feature that activates elements of the Redirect Web Part.",
+        "id": "e07e4f8d-a302-4bd5-afbe-d8d787aaf2ef",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/RedirectWebPart.sppkg"
+  }
+}
